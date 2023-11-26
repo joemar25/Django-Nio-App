@@ -1,0 +1,10 @@
+asgiref
+Django
+django-htmx
+gunicorn
+python-dotenv
+pytz
+sqlparse
+typing_extensions
+tzdata
+whitenoise
